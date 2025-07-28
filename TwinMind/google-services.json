@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945789957603",
+    "project_id": "twinmind-242a6",
+    "storage_bucket": "twinmind-242a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945789957603:android:84a8e5d7c16e21f3eddcd6",
+        "android_client_info": {
+          "package_name": "com.twinmind.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945789957603-2ivhjfndit5bfiu46cv1lvpn6if2ndur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twinmind.app",
+            "certificate_hash": "b109f1fad21c6d5859a4452b7ebe9e7fac390573"
+          }
+        },
+        {
+          "client_id": "945789957603-rvh0dbr114bpm0ctndaa02uuhpf4virf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClpEXvZP0KRG2zG-H_tkoCHGspAYQyphA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945789957603-rvh0dbr114bpm0ctndaa02uuhpf4virf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
